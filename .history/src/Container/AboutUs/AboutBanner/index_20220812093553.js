@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import BabyShopBanner from './../../Images/AboutUs/babyshop-wrap-bg1.webp'
 import Play from './../../Images/AboutUs/babyshop-about-icon1.webp'
-import Video from './../videoplayback.mp4'
+import Video from './../videoplayback.mp4.crdownload'
 import { AboutBannerWrapper } from './styled'
 import { useRef } from 'react';
 function AboutBanner(){
